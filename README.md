@@ -202,7 +202,8 @@ You can toggle between strategies and adjust their sensitivity:
 * **Trades Tab**: detailed log of every transaction, including execution price and reasoning.
 
 ## 📸 Screenshots
-Dashboard Screenshots
+**Dashboard Screenshots**
+
 Below are the bilingual interface screenshots of AlphaQuant Pro (taking Kweichow Moutai's backtest as an example), showing core functions like data source configuration, backtest results, and equity curves.
 
 **1. English Version**
